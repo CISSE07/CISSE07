@@ -18,7 +18,7 @@ I love turning ideas into concrete, elegant, and scalable solutions.
 
 ### ⚙️ Back-end
 - Node.js (Express, NestJS)  
-- PHP (Laravel)  
+- PHP  
 - Python (Django / FastAPI)
 
 ### 📱 Mobile
