@@ -3,7 +3,6 @@
 Full-Stack Developer passionate about building modern, high-performance, and user-centric web applications.  
 I love turning ideas into concrete, elegant, and scalable solutions.
 
-- 🔭 I’m currently working on [ARGOS](https://github.com/CISSE07/ARGOS)
 - 🌱 I’m currently learning more about **data structures, algorithms, and design patterns**
 - ⚡ When I’m not coding, you’ll find me playing american football, shooting hoops, or sketching.
 
