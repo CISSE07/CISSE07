@@ -4,6 +4,7 @@ Full-Stack Developer passionate about building modern, high-performance, and use
 I love turning ideas into concrete, elegant, and scalable solutions.
 
 - 🌱 I’m currently learning more about **data structures, algorithms, and design patterns**
+- 🚀 I'm working on Gridhiron : ERP for amateur sport
 - ⚡ When I’m not coding, you’ll find me playing american football, shooting hoops, or sketching.
 
 ---
